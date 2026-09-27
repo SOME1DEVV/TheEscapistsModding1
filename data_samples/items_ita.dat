@@ -1,0 +1,1549 @@
+WARNING: If you edit this file , the game will not work!
+
+[0]
+Name=Chiave Cella
+Illegal=1
+Gift=2
+Decay=10
+Info=Unlocks yellow doors
+
+[1]
+Name=Chiave Personale
+Illegal=1
+Gift=2
+Decay=10
+Info=Unlocks red doors
+
+[2]
+Name=Mentine
+Desk=1
+Gift=1
+NPC_carry=1
+FAT=5
+
+[3]
+Name=Uniforme da guardia
+Illegal=1
+Outfit=2
+Gift=1
+Buy=50
+Craft=50_Salopette, Inchiostro
+
+[4]
+Name=Uniforme da detenuto
+Outfit=1
+
+[5]
+Name=Pala solida
+Illegal=1
+Digging=5
+Chipping=2
+Gift=3
+Decay=3
+Craft=80_Pala di poco valore, Piastra di metallo, Nastro adesivo
+
+[6]
+Name=Chiave Ingresso
+Illegal=1
+Gift=2
+Decay=10
+Info=Unlocks purple doors
+
+[7]
+Name=Chiave Aree Servizio
+Illegal=1
+Gift=2
+Decay=10
+Info=Unlocks orange doors
+
+[8]
+Name=Accendino
+Buy=25
+Gift=1
+Desk=1
+NPC_carry=1
+
+[9]
+Name=Orologio da Polso
+Buy=25
+Desk=1
+Gift=2
+NPC_carry=1
+
+[10]
+Name=Medicina
+Gift=1
+Buy=20
+Desk=1
+HP=5
+NPC_carry=1
+
+[11]
+Name=Sbarra stordente
+Illegal=1
+
+[12]
+Name=Legna
+Illegal=1
+Buy=10
+NPC_carry=1
+Gift=1
+Desk=2
+
+[13]
+Name=Nastro adesivo
+Illegal=1
+CamDis=3000
+Buy=30
+NPC_carry=1
+Gift=1
+Desk=2
+
+[14]
+Name=Kit da barba
+Decay=20
+Buy=25
+CamDis=1500
+Desk=1
+NPC_Carry=1
+
+[15]
+Name=Rivista
+Gift=2
+Buy=15
+Desk=1
+NPC_carry=1
+
+[16]
+Name=Sonniferi
+Illegal=1
+Gift=1
+Buy=25
+NPC_carry=1
+
+[17]
+Name=Pettine
+Desk=1
+NPC_carry=1
+
+[18]
+Name=Coccio di vetro
+Illegal=1
+NPC_carry=1
+
+[19]
+Name=Scheggia di vetro
+Illegal=1
+Weapon=4
+Gift=3
+Decay=1
+Craft=30_Glass shard, Nastro adesivo
+
+[20]
+Name=Ratto morto
+
+[21]
+Name=Estintore
+Illegal=1
+
+[22]
+Name=Ricevitore radio
+Illegal=1
+Gift=2
+
+[23]
+Name=Cucchiaio
+Digging=1
+Desk=1
+Decay=15
+
+[24]
+Name=Cacciavite
+Illegal=1
+Unscrewing=3
+Chipping=2
+Gift=2
+Decay=10
+Buy=75
+
+[25]
+Name=Piede di porco
+Illegal=1
+Weapon=3
+Chipping=2
+Gift=3
+Decay=5
+Buy=75
+
+[26]
+Name=Terra
+Illegal=1
+Desk=2
+
+[27]
+Name=Coltello
+Weapon=1
+Cutting=1
+Desk=1
+Decay=15
+
+[28]
+Name=Forchetta
+Weapon=1
+Chipping=1
+Decay=15
+Desk=1
+
+[29]
+Name=Manganello
+Illegal=1
+Weapon=3
+Gift=2
+Decay=1
+Buy=60
+
+[30]
+Name=Spatola
+Illegal=1
+NPC_carry=1
+Desk=2
+
+[31]
+Name=Zappa
+Weapon=2
+Gift=1
+Decay=5
+
+[32]
+Name=Scopa
+Weapon=2
+Decay=1
+NPC_carry=1
+
+[33]
+Name=Cesoie
+Illegal=1
+Gift=10
+Decay=1
+
+[34]
+Name=Martello
+Illegal=1
+Weapon=3
+Gift=2
+Decay=1
+Buy=70
+
+[35]
+Name=Mocio
+Weapon=2
+Decay=1
+NPC_carry=1
+
+[36]
+Name=Inchiostro
+Desk=1
+NPC_Carry=1
+Buy=25
+
+[37]
+Name=Candeggina
+NPC_carry=1
+Desk=1
+
+[38]
+Name=Salopette
+Illegal=1
+Outfit=1
+Gift=2
+Craft=50_Any Outfit, Candeggina
+
+[39]
+Name=Piccone robusto
+Illegal=1
+Chipping=5
+Digging=4
+Gift=3
+Decay=3
+Craft=80_Piccone di poco valore, Legna, Nastro adesivo
+
+[40]
+Name=Paletta
+Illegal=1
+Digging=3
+Gift=2
+Decay=5
+NPC_carry=1
+
+[41]
+Name=Muro
+Illegal=1
+
+[42]
+Name=Concrete
+Illegal=1
+
+[43]
+Name=Chiave Laboratorio
+Illegal=1
+Gift=2
+Decay=10
+Info=Unlocks green doors
+
+[44]
+Name=Corda
+Gift=1
+Illegal=1
+Buy=60
+Decay=25
+
+[45]
+Name=Dentifricio
+Desk=1
+CamDis=1500
+Decay=50
+
+[46]
+Name=Cioccolato
+Gift=2
+Buy=15
+Desk=1
+NPC_carry=1
+FAT=15
+
+[47]
+Name=Rotolo di carta igienica
+Desk=1
+NPC_carry=1
+
+[48]
+Name=Saponetta
+Desk=1
+NPC_carry=1
+
+[49]
+Name=Mazzo di carte
+Gift=1
+Desk=1
+NPC_carry=1
+
+[50]
+Name=Libro
+Gift=1
+Desk=1
+NPC_carry=1
+
+[51]
+Name=Colla
+NPC_carry=1
+Desk=1
+Buy=30
+
+[52]
+Name=Talco
+Gift=1
+Desk=1
+Buy=15
+NPC_carry=1
+
+[53]
+Name=Stucco
+Illegal=1
+Craft=20_Talco, Dentifricio
+
+[54]
+Name=Candela
+Gift=1
+Craft=30_Pila, Cavo
+
+[55]
+Name=empty
+
+[56]
+Name=Legno di balsa
+Illegal=1
+Found=irongate
+Buy=50
+
+[57]
+Name=Vela
+Found=irongate
+Illegal=1
+Craft=80_Legna, Lenzuola
+
+[58]
+Name=Chiave Laboratorio di plastica
+Illegal=1
+Decay=20
+Craft=70_Stampo Chiave Laboratorio, Plastica fusa
+Info=Can open green doors
+
+[59]
+Name=Stampo Chiave Laboratorio
+Illegal=1
+Craft=50_Stucco, Chiave Laboratorio
+
+[60]
+Name=Torcia elettrica
+Decay=1
+Buy=30
+Gift=2
+Desk=2
+
+[61]
+Name=Taglierino robusto
+Illegal=1
+Gift=3
+Cutting=5
+Decay=3
+Craft=80_Taglierino di poco valore, Lima, Nastro adesivo
+
+[62]
+Name=Lima
+Illegal=1
+Gift=2
+Cutting=2
+Decay=10
+Buy=50
+NPC_carry=1
+Desk=2
+
+[63]
+Name=Uniforme da guardia sporca
+Illegal=1
+
+[64]
+Name=Uniforme da detenuto sporca
+Desk=1
+
+[65]
+Name=Cibo crudo
+
+[66]
+Name=Cibo cucinato
+Gift=3
+NPC_carry=1
+Desk=2
+FAT=10
+
+[67]
+Name=Grata per condotto
+Illegal=1
+
+[68]
+Name=Scala a pioli
+Illegal=1
+Buy=60
+Info=Can be placed down and stood on
+
+[69]
+Name=Lenzuola
+NPC_carry=1
+
+[70]
+Name=Woodshop key
+
+[71]
+Name=Stampo Chiave Personale
+Illegal=1
+Craft=50_Stucco, Chiave Personale
+
+[72]
+Name=Supporto in legno
+Illegal=1
+Craft=20_Legna x2
+Info=Essential for tunneling
+
+[73]
+Name=Pila
+Desk=1
+
+[74]
+Name=Calza
+Desk=1
+NPC_carry=1
+
+[75]
+Name=Sedia da verniciare
+Craft=30_Legna x3
+
+[76]
+Name=Piastra di metallo
+Illegal=1
+Buy=25
+Desk=2
+
+[77]
+Name=Targa
+Illegal=1
+
+[78]
+Name=Metalshop key
+
+[79]
+Name=Cemento
+
+
+[80]
+Name=Sturalavandini
+Decay=1
+NPC_carry=1
+Desk=1
+Info=Emergencies only
+
+[81]
+Name=Lenzuola annodate
+Illegal=1
+Decay=50
+Craft=30_Lenzuola x 2
+
+[82]
+Name=Stampo Chiave Aree Servizio
+Illegal=1
+Craft=40_Chiave Aree Servizio, Stucco
+
+[83]
+Name=Stampo Chiave Cella
+Illegal=1
+Craft=20_Chiave Cella, Stucco
+
+[84]
+Name=Plastica fusa
+Illegal=1
+Craft=30_Pettine / Spazzolino, Accendino
+
+[85]
+Name=Chiave Aree Servizio Plastica
+Illegal=1
+Decay=20
+Craft=70_Stampo Chiave Aree Servizio, Plastica fusa
+Info=Can open orange doors
+
+[86]
+Name=Chiave Personale in plastica
+Illegal=1
+Decay=20
+Craft=80_Stampo Chiave Personale, Plastica fusa
+Info=Can open red doors
+
+[87]
+Name=Chiave Cella in plastica
+Illegal=1
+Decay=20
+Craft=50_Stampo Chiave Cella, Plastica fusa
+Info=Can open yellow doors
+
+[88]
+Name=Chiave Ingresso in plastica
+Illegal=1
+Decay=20
+Craft=60_Stampo Chiave Ingresso, Plastica fusa
+Info=Can open purple doors
+
+[89]
+Name=Stampo Chiave Ingresso
+Illegal=1
+Craft=30_Chiave Ingresso, Stucco
+
+[90]
+Name=Tazza
+Desk=1
+
+[91]
+Name=Altoparlante
+Illegal=1
+
+[92]
+Name=Scheda madre
+Illegal=1
+
+[93]
+Name=Graffetta
+Desk=1
+
+[94]
+Name=Lama di rasoio
+Gift=2
+Buy=20
+Desk=1
+NPC_carry=1
+
+[95]
+Name=Cuscino
+Weapon=1
+
+[96]
+Name=Spazzolino
+Desk=1
+NPC_carry=1
+
+[97]
+Name=Spazzolino appuntito
+Illegal=1
+Weapon=2
+Gift=2
+
+[98]
+Name=Cavo
+NPC_Carry=1
+Buy=25
+Desk=1
+
+[99]
+Name=Poster
+Gift=2
+Craft=20_Rivista, Nastro adesivo
+
+[100]
+Name=Foglio di alluminio
+Illegal=1
+Buy=30
+Gift=1
+Desk=2
+
+[101]
+Name=Cartapesta
+Illegal=1
+Craft=30_Rotolo di carta igienica, Colla
+
+[102]
+Name=Kit per tatuaggi fai-da-te
+Gift=2
+
+[103]
+Name=Calza ferrata
+Illegal=1
+Weapon=3
+Gift=3
+Craft=30_Saponetta, Calza
+
+[104]
+Name=Super calza ferrata
+Illegal=1
+Weapon=3
+Gift=3
+Craft=50_Pila, Calza
+
+[105]
+Name=Cioccolato fuso
+Illegal=1
+Gift=2
+Craft=40_Cioccolato, Tazza, Accendino
+Info=Throw at someone to drop them 
+
+[106]
+Name=Game Set
+Gift=2
+
+[107]
+Name=Dadi
+Gift=1
+
+[108]
+Name=Nunchaku
+Illegal=1
+Weapon=5
+Gift=3
+Craft=70_Cavo, Legna x2
+
+[109]
+Name=Pettine affilato
+Illegal=1
+Weapon=2
+Gift=2
+Desk=2
+
+[110]
+Name=Frusta
+Illegal=1
+Weapon=5
+Gift=3
+Craft=80_Legna, Cavo, Lama di rasoio
+
+[111]
+Name=Tirapugni
+Illegal=1
+Weapon=4
+Gift=3
+Craft=60_Nastro adesivo, Lama di rasoio
+
+[112]
+Name=Testa di rampino
+Illegal=1
+Craft=60_Piede di porco x2, Nastro adesivo
+
+[113]
+Name=Rampino
+Illegal=1
+Decay=20
+Craft=90_Testa di rampino, Corda
+Info=Used to ascend small elevations
+
+[114]
+Name=Pala di poco valore
+Illegal=1
+Digging=4
+Chipping=2
+Gift=3
+Decay=5
+Craft=60_Pala fragile, Piastra di metallo, Nastro adesivo
+
+[115]
+Name=Pala fragile
+Illegal=1
+Digging=3
+Chipping=2
+Gift=3
+Decay=8
+Craft=40_Maniglia improvvisata, Piastra di metallo, Nastro adesivo
+
+[116]
+Name=Blocco di muro finto
+Illegal=1
+Decay=10
+Craft=40_Cartapesta x2, Inchiostro
+
+[117]
+Name=Falsa grata per condotto
+Illegal=1
+Decay=10
+Craft=30_Cartapesta x2
+
+[118]
+Name=Piccone fragile
+Illegal=1
+Digging=2
+Gift=1
+Chipping=3
+Decay=8
+Craft=40_Piede di porco, Maniglia improvvisata, Nastro adesivo
+
+[119]
+Name=Piccone di poco valore
+Illegal=1
+Digging=3
+Chipping=4
+Gift=2
+Decay=5
+Craft=60_Piccone fragile, Legna, Nastro adesivo
+
+[120]
+Name=Taglierino fragile
+Illegal=1
+Gift=1
+Cutting=3
+Decay=8
+Craft=40_Lima x2, Nastro adesivo
+
+[121]
+Name=Taglierino di poco valore
+Illegal=1
+Gift=2
+Cutting=4
+Decay=5
+Craft=60_Taglierino fragile, Nastro adesivo, Lima
+
+[122]
+Name=Maniglia improvvisata
+Illegal=1
+Craft=30_Lima, Legna
+
+[123]
+Name=Istruzioni
+Illegal=1
+Desk=2
+NPC_carry=1
+Gift=2
+Buy=25
+Info=Information on a craftable item
+
+[124]
+Name=Rasoio a pettine
+Illegal=1
+Weapon=2
+Gift=2
+Desk=2
+Craft=20_Pettine, Lama di rasoio
+
+[125]
+Name=Borsa di contrabbando
+Illegal=1
+Gift=3
+Decay=25
+Craft=50_Foglio di alluminio, Nastro adesivo
+Info=Detectors won't alarm with this in your possession
+
+[126]
+Name=Fantoccio per letto
+Gift=1
+Illegal=1
+Craft=30_Cuscino x2, Lenzuola        
+
+[127]
+Name=Uniforme da prigioniero
+Outfit=1
+
+[128]
+Name=Uniforme da detenuto ovattata 
+Outfit=2
+Illegal=1
+Gift=1
+Craft=30_Uniforme da detenuto, Cuscino, Nastro adesivo
+
+[129]
+Name=Uniforme da detenuto imbottita
+Outfit=3
+Illegal=1
+Gift=1
+Craft=60_Uniforme da detenuto, Libro, Nastro adesivo
+
+[130]
+Name=Uniforme da detenuto rinforzata
+Outfit=4
+Gift=2
+Illegal=1
+Craft=80_Uniforme da detenuto, Piastra di metallo, Nastro adesivo
+                           
+[131]
+Name=Kit medico
+Gift=2
+Buy=30
+Desk=2
+HP=15
+
+[132]
+Name=Cappello
+
+[133]
+Name=Giacca
+
+[134]
+Name=Mutande
+
+[135]
+Name=Pantaloncini
+
+[136]
+Name=Ago e filo
+
+[137]
+Name=Tessuto
+
+[138]
+Name=Pacchetto
+
+[139]
+Name=Pacchetto
+
+[140]
+Name=Pacchetto
+
+[141]
+Name=Lettera
+
+[142]
+Name=Tenuta PDG foderata
+Outfit=2
+Illegal=1
+Gift=1
+Craft=30_Uniforme da prigioniero, Cuscino, Nastro adesivo
+
+[143]
+Name=Tenuta PDG imbottita
+Outfit=3
+Illegal=1
+Gift=1
+Craft=60_Uniforme da prigioniero, Libro, Nastro adesivo
+
+[144]
+Name=Tenuta PDG placcata
+Outfit=4
+Gift=2
+Illegal=1
+Craft=80_Uniforme da prigioniero, Piastra di metallo, Nastro adesivo
+
+[145]
+Name=Telecomando TV
+Desk=1
+NPC_carry=1
+Found=perks
+
+[146]
+Name=Spugna marina
+Desk=1
+NPC_carry=1
+Found=perks
+
+[147]
+Name=DVD
+Desk=1
+NPC_carry=1
+Found=perks
+
+[148]
+Name=Biscotto
+Desk=1
+NPC_carry=1
+Found=perks
+FAT=15
+
+[149]
+Name=Muffin
+Desk=1
+NPC_carry=1
+Found=perks
+FAT=15
+
+[150]
+Name=Piuma
+Buy=30
+Found=jungle
+
+[151]
+Name=Casco di banane
+Desk=1
+NPC_carry=1
+Found=jungle
+FAT=10
+
+[152]
+Name=Fogli non firmati
+Illegal=1
+Found=jungle
+
+[153]
+Name=Fogli firmati
+Illegal=1
+Found=jungle
+Craft=60_Piuma, Inchiostro, Fogli non firmati
+Gift=3
+
+[154]
+Name=Erba verde
+Desk=1
+HP=5
+NPC_carry=1
+Buy=15
+Found=jungle
+
+[155]
+Name=Erba rossa
+Desk=2
+HP=10
+NPC_carry=1
+Buy=25
+Found=jungle
+
+[156]
+Name=Fazzoletto di seta
+Desk=1
+NPC_carry=1
+Found=perks
+
+[157]
+Name=Rotolo di carta igienica di qualita
+Desk=1
+NPC_carry=1
+Found=perks
+
+[158]
+Name=Filo interdentale
+Desk=1
+NPC_carry=1
+
+[159]
+Name=Orsacchiotto
+Desk=1
+NPC_carry=1
+Found=perks
+
+[160]
+Name=Crema per le mani
+Desk=1
+NPC_carry=1
+Found=perks
+
+[161]
+Name=Cartolina
+Desk=1
+NPC_carry=1
+Found=perks
+
+[162]
+Name=Kit per la pedicure
+Desk=1
+NPC_carry=1
+Found=perks
+
+[163]
+Name=Crema per le mani
+Desk=1
+NPC_carry=1
+Found=perks    
+
+[164]
+Name=Orologio da taschino
+Desk=1
+NPC_carry=1
+Found=stalagflucht
+
+[165]
+Name=Foto di famiglia
+Desk=1
+NPC_carry=1
+Found=stalagflucht
+
+[166]
+Name=Medaglia
+Desk=1
+NPC_carry=1
+Found=stalagflucht
+
+[167]
+Name=Targhetta del cane
+Desk=1
+NPC_carry=1
+Found=stalagflucht
+
+[168]
+Name=Pianta rampicante
+Desk=1
+NPC_carry=1
+Found=jungle
+
+[169]
+Name=Noce di cocco
+Desk=1
+FAT=10
+Gift=1
+NPC_carry=1
+Found=jungle
+
+[170]
+Name=Mango
+Desk=1
+FAT=10
+Gift=1
+NPC_carry=1
+Found=jungle
+
+[171]
+Name=Peperoncino
+Desk=1
+NPC_carry=1
+Found=sanpancho
+
+[172]
+Name=Sabbia
+Desk=1
+Illegal=1
+NPC_carry=1
+Found=sanpancho
+
+[173]
+Name=Sombrero
+Desk=1
+NPC_carry=1
+Found=sanpancho
+
+[174]
+Name=Falsa grata per recinzione
+Illegal=1
+Decay=25
+Craft=50_Cavo x3
+
+[175]
+Name=Poncho
+Desk=1
+NPC_carry=1
+Found=sanpancho
+
+[176]
+Name=Burrito crudo
+Found=sanpancho
+
+[177]
+Name=Burrito
+Desk=1
+FAT=10
+Gift=2
+NPC_carry=1
+Found=sanpancho
+
+[178]
+Name=Tamburo tribale
+Desk=1
+Gift=2
+NPC_carry=1
+Found=jungle
+
+[179]
+Name=Chiodi
+Desk=1
+Buy=40
+Gift=1
+NPC_carry=1
+
+[180]
+Name=Banda chiodata
+Illegal=1
+Gift=1
+Craft=50_Nastro adesivo, Chiodi x2
+
+[181]
+Name=Coltellino multiuso
+Illegal=1
+Gift=3
+Digging=5
+Chipping=5
+Craft=90_Pala solida, Piccone robusto, Nastro adesivo
+Decay=1
+
+[182]
+Name=Mazza di legno
+Illegal=1
+Weapon=3
+Gift=2
+Craft=40_Legna, Nastro adesivo
+
+[183]
+Name=Mazza appuntita
+Illegal=1
+Weapon=4
+Gift=2
+Craft=70_Legna, Nastro adesivo, Chiodi
+
+[184]
+Name=Marsupio da contrabbando resistente
+Illegal=1
+Gift=3
+Decay=15
+Craft=70_Foglio di alluminio x2, Nastro adesivo
+
+[185]
+Name=Filo tagliente
+Illegal=1
+Gift=2
+Cutting=3
+Decay=8
+Craft=40_Filo interdentale x3
+
+[186]
+Name=Cacciavite elettrico
+Illegal=1
+Unscrewing=5
+Chipping=3
+Gift=2
+Decay=5
+Craft=80_Cacciavite, Pila, Cavo
+
+[187]
+Name=Base zattera
+Illegal=1
+Craft=80_Legno di balsa x2, Corda
+
+[188]
+Name=Zattera fai-da-te
+Illegal=1
+Craft=80_Base zattera, Vela, Corda
+
+[189]
+Name=Teleferica
+Illegal=1
+Craft=60_Legna, Cavo
+
+[190]
+Name=DoDo Donut
+Desk=1
+FAT=10
+Gift=1
+NPC_carry=1
+
+[191]
+Name=Penarium Barrel
+Gift=5
+Desk=1
+
+[192]
+Name=Carbone
+Illegal=1
+
+[193]
+Name=Contenitore per miscelare
+Illegal=1
+
+[194]
+Name=Lamiera ondulata
+Illegal=1
+
+[195]
+Name=Miscela esplosiva
+Illegal=1
+
+[196]
+Name=Fertilizzante
+Illegal=1
+
+[197]
+Name=Munizione esplosiva improvvisata
+Illegal=1
+
+[198]
+Name=Mistura esplosiva
+Illegal=1
+
+[199]
+Name=Miccia improvvisata
+Illegal=1
+
+[200]
+Name=Cannone di carro armato improvvisato
+Illegal=1
+
+[201]
+Name=Scafo di carro armato improvvisato
+Illegal=1
+
+[202]
+Name=Torretta di carro armato improvvisata
+Illegal=1
+
+[203]
+Name=Cono di metallo
+Illegal=1
+
+[204]
+Name=Tubo di metallo
+Illegal=1
+
+[205]
+Name=Potassio
+Illegal=1
+
+[206]
+Name=Anello della Supremazia
+Desk=1
+Found=escapeteam
+Gift=2
+
+[207]
+Name=Accenditoio
+Illegal=1
+
+[208]
+Name=Sacco della spazzatura
+Desk=1
+Found=escapeteam
+Gift=2
+
+[209]
+Name=Dopobarba
+Desk=1
+Found=escapeteam
+Gift=2
+
+[210]
+Name=Uniforme da detenuto
+Outfit=1
+
+[211]
+Name=Uniforme da soldato
+Outfit=1
+Illegal=1
+Gift=1
+Buy=50
+
+[212]
+Name=Mangianastri
+Illegal=1
+
+[213]
+Name=Registratore vocale
+Illegal=1
+
+[214]
+Name=Memorie degli sgherri
+Illegal=1
+
+[215]
+Name=Smoking
+Outfit=1
+
+[216]
+Name=Dirty Tux Outfit
+
+[217]
+Name=Stucco blu
+
+[218]
+Name=Nastro adesivo
+
+[219]
+Name=Bicchiere sporco
+Illegal=1
+
+[220]
+Name=Tessera magnetica
+Illegal=1
+
+[221]
+Name=Impronta falsa
+Illegal=1
+
+[222]
+Name=Sorpresa con bomba
+Illegal=1
+Desk=1
+Found=DTAF
+
+[223]
+Name=empty
+
+[224]
+Name=Uovo decorato finto
+Gift=15
+NPC_carry=1
+Desk=1
+Found=DTAF
+
+[225]
+Name=Lanciafiamme nascosto
+Illegal=1
+
+[226]
+Name=Spray per capelli
+Desk=1
+Found=DTAF
+
+[227]
+Name=Scarpa finta
+NPC_carry=1
+Desk=1
+Found=DTAF
+Decay=25
+Info=Detectors won't alarm with this in your possession
+
+[228]
+Name=Completo Henchman
+Illegal=1
+Outfit=1
+
+[229]
+Name=Dirty Henchman Outfit
+Illegal=1
+
+[230]
+Name=Scarpa con coltello
+Illegal=1
+Weapon=3
+Gift=2
+Desk=1
+Found=DTAF
+
+[231]
+Name=Orologio con laser da taglio
+Illegal=1
+Cutting=50
+Decay=100
+Gift=3
+Desk=1
+Found=DTAF
+
+[232]
+Name=Cappello con bordo in metallo
+Illegal=1
+Weapon=4
+Gift=3
+
+[233]
+Name=Cappello "Pork Pie"
+Desk=1
+Found=DTAF
+
+[234]
+Name=Penna stordente
+Illegal=1
+Weapon=3
+NPC_carry=1
+Desk=1
+Found=DTAF
+
+[235]
+Name=Orologio con filo per strangolare
+Illegal=1
+Desk=1
+Found=DTAF
+
+[236]
+Name=Impronta tenue
+Illegal=1
+
+[237]
+Name=Vassoio da te affilato
+Illegal=1
+Desk=1
+Found=DTAF
+
+[238]
+Name=Uniforme da Elfo
+Outfit=1
+
+[239]
+Name=Uniforme da elfo guardia
+Outfit=1
+Illegal=1
+
+[240]
+Name=Lampadine
+Illegal=1
+
+[241]
+Name=Petardo
+Desk=1
+NPC_carry=1
+Found=SS
+Illegal=1
+
+[242]
+Name=Luci colorate
+Illegal=1
+
+[243]
+Name=Lustrini
+Illegal=1
+
+[244]
+Name=Leva
+Illegal=1
+
+[245]
+Name=Lecca lecca
+Desk=1
+NPC_carry=1
+Found=SS
+Weapon=3
+Illegal=1
+
+[246]
+Name=Tortina di Natale
+Desk=1
+NPC_carry=1
+Found=SS
+FAT=5
+
+[247]
+Name=Regali
+Illegal=1
+
+[248]
+Name=Calza
+Desk=1
+NPC_carry=1
+Found=SS
+
+[249]
+Name=Decorazione
+Illegal=1
+
+[250]
+Name=Palla di legno
+
+[251]
+Name=Blocchi di legno
+
+[252]
+Name=Bambola di legno
+
+[253]
+Name=Monopattino di legno
+
+[254]
+Name=Carta regalo
+Illegal=1
+
+[255]
+Name=Lettera carina
+
+[256]
+Name=Lettera oscena
+
+[257]
+Name=Cesello
+Chipping=1
+Illegal=1
+
+[258]
+Name=Joystick di legno
+
+[259]
+Name=Copia di Worms
+
+[260]
+Name=Mazza da Baseball
+Illegal=1
+Weapon=4
+Desk=1
+Carry=1
+Gift=1
+Buy=40
+
+
+[261]
+Name=Magnete
+
+[262]
+Name=Tappo
+
+[263]
+Name=Bottiglia vuota
+
+[264]
+Name=Casco da lavoro
+
+[265]
+Name=Ago
+
+[266]
+Name=Ago magnetizzato
+
+[267]
+Name=Carburante
+Illegal=1
+
+[268]
+Name=Torcia potente
+Illegal=1
+
+[269]
+Name=Lampadina alogena
+Illegal=1
+
+[270]
+Name=Luce di navigazione
+Illegal=1
+
+[271]
+Name=Ciotola della renna
+
+[272]
+Name=Bottiglia d'acqua
+
+[273]
+Name=Ciotola d'acqua
+
+[274]
+Name=Carote crude disgustose
+
+[275]
+Name=Carote succose
+
+[276]
+Name=Bussola di fortuna
+Illegal=1
+
+[277]
+Name=Aringa rossa
+
+[278]
+Name=Propulsore
+Illegal=1

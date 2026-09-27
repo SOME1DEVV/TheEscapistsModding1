@@ -12,3 +12,13 @@
 
 Полный тулкит (лаунчер, рандомайзер, правки перевода, дампы, доки) —
 в архивах `TE1ModdingPart1.zip` / `TE1ModdingPart2.zip`.
+
+## Скрипты лаунчера
+
+| Файл | Назначение |
+|---|---|
+| `build_launcher.py` | собирает `launcher_src/te1_engine.py` + `fixes_rus.json` в корневой `TE1_Mod_Launcher.bat` (только ASCII, CRLF). После любой правки `launcher_src/`: `python3 tools/build_launcher.py`; `--check` — проверить, что .bat свежий |
+| `test_launcher.py` | регрессия Data-модов и логики запуска игры на фейковой папке из `data_samples/` |
+| `test_guardkeys_launcher.py` | e2e-тест exe-мода: настоящий exe + лаунчер (установка/починка/удаление). Нужен образец exe: `TE1_SAMPLE_EXE=/путь/к/theescapists_eur.exe` (без него — SKIP) |
+
+`data_samples/` (в корне) — образец папки `Data/` игры, нужен `test_launcher.py`.

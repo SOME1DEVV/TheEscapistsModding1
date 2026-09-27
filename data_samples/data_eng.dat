@@ -1,0 +1,735 @@
+WARNING: If you edit this file , the game will not work!
+
+[Missions_Journal]
+1=No favours yet!
+2=Beat up $target for $giver
+3=Distraction at $routine for $giver
+4=Locate a $item for $giver
+5=Get $giver's $item from $target
+
+[Missions_StealChar]
+Count=16
+1=StealChar@Inmate@That thieving rat $inmate stole my $item! I want it back ASAP!
+2=StealChar@Inmate@A lil' birdie told me that $inmate's been seen with my missing $item. Mind retrieving it?
+3=StealChar@Inmate@Somehow $inmate got his grubby paws on my $item! I need it back!
+4=StealChar@Inmate@$inmate relieved me of my $item! Could you get it back?
+5=StealChar@Guard@$guard saw fit to relieve me of my $item. I'd appreciate it if you could get it back.
+6=StealChar@Guard@$guard raided my cell yesterday and took my $item. Could you get me it back?
+7=StealChar@Guard@Yesterday my $item vanished, now I'm hearing that $guard has it. Could you get it back for me?
+8=StealChar@Guard@$guard jacked my $item earlier- I want it back!
+9=StealChar@Inmate@My lucky $item has found its way into the pilfering palm of $inmate. Get it back and I'll see you right.
+10=StealChar@Inmate@It seems $inmate's acts of friendship lately were just a cover to get his hands on my $item. Fancy getting it back for me?
+11=StealChar@Inmate@I paid $inmate good money for a $item and he never delivered. Get it for me and I'll pay you for the trouble.
+12=StealChar@Inmate@$inmate and his pals jumped me and took my $item. Get me it back and I'll give you a little reward.
+13=StealChar@Inmate@My $item's done a vanishing act and I suspect $inmate is to blame. I'd like it back.
+14=StealChar@Guard@I gave $guard my $item in good faith he'd watch my back. He failed to deliver so I want my payment back.
+15=StealChar@Inmate@$inmate and his pals extorted a $item off me. Thing is, I want it back. How about it?
+16=StealChar@Inmate@$inmate jacked my $item! Get it back and I'll see you right bro'.
+
+[Missions_Beat]
+Count=23
+1=Beat@Inmate@That punk $inmate's been disrespecting me. Knock him about the place a bit and I'll pay you
+2=Beat@Inmate@$inmate's trying to muscle me out of my group with some shady tactics. He's definitely due a beating, you up for it
+3=Beat@Inmate@That $inmate's resumed his career as a petty thief. Show him the error of his ways with a beatdown and I'll pay you.
+4=Beat@Inmate@I need $inmate laid out on the floor. I'd do it myself but the guards have me in their scopes. How about it?
+5=Beat@Inmate@You're not friends with $inmate are you? It'd be in everyones best interests if he took a beating.
+6=Beat@Inmate@That lowlife $inmate's earned himself a beating. How'd you feel about dishing one out?
+7=Beat@Inmate@$inmate's been snitching me out to the guards. Perhaps a beating will shut his mouth. You up to the task?
+8=Beat@Inmate@It seems $inmate's been running his mouth off about me yet again. Give him a beating and I'll make it worth your while.
+9=Beat@Inmate@$inmate is plotting something- i can smell it. Go knock him down and remind him who's in charge.
+10=Beat@Guard@$guard thinks he has VIP access to my cell desk. Go lay him out for me and I'll pay you.
+11=Beat@Guard@$guard kindly escorted me into an ambush the other day and I took a pretty hard beating. I'd like to return the favor, you up for it?
+12=Beat@Guard@$guard's trying to extort my earnings again! Last time a beatdown solved that, maybe it will again. You wanna do it?
+13=Beat@Inmate@I suspect the recent heat on me is coming from $inmate. Give him a good hidin' and I'll see you right.
+14=Beat@Inmate@$inmate's had his crew on the outside harrass my family. I need him laid out on the floor. How about it?
+15=Beat@Inmate@That moron $inmate blocked my cell transfer request with some well timed snitchery. Drop a beatdown on him for me.
+16=Beat@Inmate@I don't know who started these rumours about me, but $inmate can be the first to recieve a beating. Want the job?
+17=Beat@Inmate@$inmate spilled all my dirty little secrets to the warden to cut his sentence. Worth a beating I'd say.
+18=Beat@Inmate@$inmate seems to be drawn to the inside of my desk. Introduce him to your fists.
+19=Beat@Inmate@$inmate's curiosity has landed him at the top of my beatdown list. Wanna earn some cash?
+20=Beat@Guard@My parole was rejected thanks to $guard. I want him bruised.
+21=Beat@Guard@$guard failed to honour his side of our little 'look the other way' deal. Fancy laying a beatdown on him?
+22=Beat@Guard@Pretty sure $guard fancies me. Go break his face.
+23=Beat@Guard@That $guard is worse than the crooks in here. Someone should give him a good hidin'.
+
+[Missions_Give]
+Count=3
+1=Give@I need a $item, can you hook me up with one?
+2=Give@I'm on the lookout for a $item, could you get me one?
+3=Give@Find me a $item and I'll make it worth your while.
+4=Give@Desperately in need of a $item! Help me out?
+5=Give@Got a $item? I have a buyer lined up!
+6=Give@Someone jacked my $item, so I'm looking for a replacement.
+
+[Missions_Distract]
+Count=7
+1=Distract@I plan to teach someone a lesson during next $routine. Get the guards attention so I can do my thing
+2=Distract@At next $routine, distract the guards for me while I slip away- I've got a cell to shakedown!
+3=Distract@Grab the guards attention at next $routine for me, I have a debt to settle!
+4=Distract@Finally found out who's been snitching on me to the warden! Distract the guards at next $routine for me so I can reward him.
+5=Distract@It's all cracking off next $routine! If you could distract the guards I'll see you right...
+6=Distract@I've been tailing a thieving rat for days and worked out his routine. Distract the guards at next $routine for me so I can check his stash.
+7=Distract@If you can divert the guards attention next $routine for me I can dish out some justice using this screwdriver!
+
+[Job_Descrip]
+Janitor=Clean up your act and clean up our floors whilst you’re at it! I want you to make those floors, the foundations of YOUR reform, look their best.#Collect a mop or broom from the janitor office and use it to remove patches of dirt you find around the prison.
+
+Laundry=Your criminal attitude stinks, and so do your overalls! The only thing I want to smell on you inmates is the fresh scent of justice.#Take dirty outfits from the container in the laundry room and place them into the washers. Once spun, take them out and put them into the clean laundry container.
+
+Kitchen=The inspectors call it hazardous, I call it ‘Rustic’. A sense of taste andor smell is not essential. Don’t worry about washing your hands.#Take uncooked food from the freezer in the kitchen and place them in the ovens. Once cooked, take them out and put them on the serving trays in the canteen.
+
+Woodshop=Responsibly sourced by us, irresponsibly hammered together by you lot. Our wood shop has found quite the market for our ‘vintage inspired’ furniture. No craftsmanship required, the prison is NOT responsible for splinters.#Take three timbers from the container in the woodshop and craft them into furniture. Place the finished product in the furniture container.
+
+Library=You lot accuse the library of being understocked, but I assure you it’s a ‘modest’ collection of the finest literary works available. Not the inane jumble of expletives and filth you rabble are used to on the outside.#Collect books from the library and deliver them to the inmates they’re addressed to. You can either give it to them personally or leave it ON (not in) their cell desk.
+
+Tailor=As a prison, we are proud of our contract with famous clothing brand ‘Adidoodoo’ and are determined to meet their need for high quality, hand crafted garments.#Take three pieces of fabric from the container in the tailorshop and craft them into an item of clothing. Place the finished product in the clothing container.
+
+Gardening=Dream of working in the great outdoors Being at one with nature and all that Then introduce yourself to the weeds plaguing our courtyards.#Collect a hoe from the gardening office and use it to remove weeds around the prison grounds.
+
+Mailman=I hate to be the bearer of bad news, which is why I’m asking you to do it for me.#Collect mail from the mailroom and deliver it to the inmates it’s addressed to. You can either give it to them personally or leave it ON (not in) their cell desk.
+
+Metalshop=The automotive industry is booming! The only booming you will hear is the sound of licence plates being pressed. The harder you work, the sooner I get my sporty little convertible.#Take metal sheets from the container in the metalshop and use them on the presses to create license plates. Put the finished plates in the relevant container.
+
+Deliveries=What’s inside those boxes isn’t of concern to you. I just want them moving UNTAMPERED to where they need to go. #Take packages from the delivery truck and place them in the relevant storage containers.
+
+[Job Board]
+1=Tip: No vacancies? Create one by#disrupting an inmates work process
+2=Resign
+3=Apply
+4=I'm far too busy to be processing requests like this during a work period!#Move along and try again later..  
+5=The cheek of applying for a job while you're in bad standing with the guards!#Learn to respect the basic rules of our fine prison and try again later. Scoot!
+6=You need at least $int intellect to apply for that job, so your application has been declined and filed neatly away down my toilet.#Smarten yourself up boy!
+7=I've stamped your application as approved- welcome to prison industries!#Complete your quota and you'll get paid, fail to meet it and consider yourself fired!
+8=Gardener Position
+9=Janitor Position
+10=Kitchen Position
+11=Laundry Position
+12=Librarian Position
+13=Mailman Position
+14=Metalshop Position
+15=Tailor Position
+16=Deliveries Position
+17=Woodshop Position
+18=Due to your sheer incompetence and inability to reach the quotas we've set, we've taken away your job.#Once you pull yourself together and decide to try harder you may reapply at the job board.
+19=Vacancy
+
+[Title]
+1=Play Game
+2=Leaderboards
+3=Settings
+
+[Title_Play]
+1=Select a File
+2=New Game
+3=Back
+4=Erase
+5=Customize Player
+6=Continue
+7=Very Easy
+8=Easy
+9=Moderate
+10=Hard
+11=Very Hard
+12=Select a Prison
+13=Rename Characters
+14=Random
+15=Start Game
+16=Really erase?
+17=Press [Y] to confirm or [ESC] to cancel
+18=Tutorial
+19=Personal Best Score
+20=Bonus Content
+21=Custom Prisons
+
+[Leaderboards]
+1=Top Escapists
+2=Player
+3=Score
+4=Days
+5=Return
+6=Enter a name for the Leaderboards
+
+[Settings]
+1=Music
+2=Sounds
+3=Screen
+4=Full
+5=Window
+6=Remap Keys
+7=Done
+8=Up
+9=Down
+10=Left
+11=Right
+12=Action1
+13=Action2
+14=Combat
+15=Reset
+16=Done
+17=Language
+18=Speech file
+19=leave blank to set to default
+
+[Jobs]
+1=Janitor
+2=Gardening
+3=Tailor
+4=Laundry
+5=Woodshop
+6=Metalshop
+7=Deliveries
+8=Library
+9=Mailman
+10=Kitchen
+11=Unemployed
+
+[Routines]
+1=Lights Out
+2=Morning Rollcall
+3=Lockdown
+4=Breakfast
+5=Free Period
+6=Lunch
+7=Leisure \ Work Period
+8=Exercise Period
+9=Shower Block
+10=Evening Meal
+11=Evening Free Time
+12=Evening Rollcall
+13=Afternoon Rollcall
+14=Day
+15=Janitor Job
+16=Gardening Job
+17=Tailoring Job
+18=Laundry Job
+19=Woodshop Job
+20=Metalshop Job
+21=Deliveries Job
+22=Library Job
+23=Mailman Job
+24=Kitchen Job
+
+[HUD]
+1=Cash
+2=Heat
+3=Health
+4=Fatigue
+5=Profile
+6=Journal
+7=Crafting
+8=Load
+
+[Stats]
+1=Strength
+2=Speed
+3=Intellect
+4=Opinion
+
+[Journal]
+1=Journal - Favours
+2=Journal - Crafting Notes
+
+[PauseMenu]
+1=Continue
+2=Settings
+3=Help
+4=Quit
+5=Game Paused
+
+[PauseMenu_Quit]
+1=Quit game?
+2=Are you sure? All unsaved#progress will be lost
+3=I'm sure
+4=Cancel
+5=(Save your game by sleeping#in your bed at night)
+
+[Favour_Box]
+1=Favour Request
+2=Payout
+3=No
+4=Maybe
+5=Yes
+6=Favour Complete
+
+[Load]
+1=Load game
+2=Load game from#last wake up?
+
+[Warden_Welcome]
+perks=Dear $name#Welcome to Center Perks - the most comfortable low security prison in the county. On behalf of all the staff here we wish you a happy and relaxing visit!#Should you get bored of the complimentary cable TV, we pride ourselves in many other engaging activities around the grounds.
+
+stalagflucht=Sent me another one have they?..#Listen $name, I don't have to remind you that Stalag Flucht is famous for housing inmates with a record of escapism, so if you're planning on getting out of this one, think again!#Now get yourself settled in, it's going to be a cold, long winter.
+
+shanktonstatepen=Welcome to Shankton State Pen, your new home for the foreseeable future.#Since I've been warden we've had a few daring escapists among us, but they were promptly scooped back up and punished. No one escapes on my watch, so don't get any ideas!#If you forget any of the rules around here, the guards batons will be only too glad to remind you!
+
+jungle=Welcome to the jungle!#Society has declared you a menace, so we've put you far away from any trace of it.#Before you even entertain the thought of escaping, let me remind you that even if by some remote chance you make it past the fence, the wall, the perimeter jeeps and the guard checkpoint, there's no surviving out in the wild beyond...
+
+sanpancho=This is the notorious San Pancho, the roughest, toughest and downright nastiest prison south of the border.#The blistering heat and claustrophobic conditions here turns our inmates angry and violent.#Even the guards daren’t enter!
+
+irongate=Listen here maggot.#You know why you're here so no point crying about it. Generally feared as the highest security prison ever, HMP Irongate is where you'll live out the rest of your meaningless existence.#Escape you say? Don't make me laugh! The handful of idiots who tried met a watery demise trying to swim off the island. Still, chin up eh?
+alca=Well I never! Of all the prisons in all the world, you went and landed yourself in mine.#Now, I really don't want to dampen your spirits seeing as though you're the new guy around here, but the fact is you will NEVER leave this island. What's left of your pitiful existence will be spent with me and my boys here in The Rock.#Enjoy your stay, punk..
+
+TOL=$name...##A wealthy member of society has accused you of treason, so we’ve had no choice but to skip the trial and reserve you a bed here, all expenses paid by him! Oh, and that evidence you submitted, seems to have been misplaced. . .##Enjoy your stay, peasant!
+
+BC=Dear Client,##The trial was a farce, but as you can see, I was able to pull some last minute strings with my good friend the Judge and get you sent to 'summer camp'.##How do you like the place? Nice little quiet spot by the lake, like you always wanted, right? They've forecast a great summer, so enjoy!##Lou Pole#Attorney At Law
+
+[Hovers]
+1=Camera
+2=$inmates desk
+3=Dispose Items
+4=Ladder Up
+5=Ladder Down
+6=Your bed
+7=Your desk
+8=Dirty Laundry
+9=Clean Laundry
+10=Cleaning Supplies
+11=Contraband detector
+12=Food tray
+13=Cutlery
+14=Oven
+15=Sink
+16=Freezer
+17=Infirmary Bed
+18=Medical Supplies
+19=Cabinet (hide)
+20=Train (weights)
+21=Train (jogging)
+22=Train (skipping)
+23=Train (press ups)
+24=Train (treadmill)
+25=Train (speed bag)
+26=Train (punch bag)
+27=Generator
+28=Timber Supplies
+29=Furniture Container
+30=Metal Supplies
+31=License Container
+32=Bookshelf
+33=Book Chest
+34=Prisoner Stash
+35=Washing Machine
+36=Sun Lounger
+37=Fabric Chest
+38=Clothing
+39=Internet
+40=Mailroom File
+41=Unoccupied Desk
+42=Slats
+43=Vent
+44=Fake Vent Cover
+45=Job Board
+46=Cable TV
+47=Solitary Bed
+48=Payphone
+49=Visitation
+50=Sit Down
+51=Fake Wall
+52=Reinforced Concrete
+53=Chip Wall
+54=Cut Fence
+55=Cut Bars
+56=Chip Stone
+57=Unscrew Vent
+58=Cut Vent
+59=Dig
+60=Dig Up
+61=Cut Slats
+62=Employment Officer
+63=Infirmary Staff
+64=Visitor
+65=Warden $name
+66=Delivery Truck
+67=Gardening Tools
+68=Desk
+69=Zipline (start)
+70=Zipline (end)
+71=Tower Guard
+72=Backup arrives in $time seconds
+73=Train (Chin ups)
+74=Prisoner Boat
+
+[Caught]
+1=Nice try $name,#$crime#As punishment I’m placing you in solitary for a few days, hopefully it’ll teach you a hard lesson!
+2=The perimeter jeep patrol spotted you trying to make a run for it.
+3=The night patrols noticed your cell was empty, so I called the big boys in to flush you out of hiding.
+4=I'm not sure how you got out of your cell but it definitely won't happen again!
+5=My boys found some fencing cut open and we've linked it back to you.
+6=My boys found cell bars cut open and we've linked it back to you.
+7=My boys found open vent panels and we've linked it back to you.
+8=My boys found holes in the walls and we've linked it back to you.
+9=My boys found evidence of tunnelling and we've linked it back to you.
+10=My boys found some tunnel dirt lying around, and traced it back to you.
+11=My boys found a wall block lying around, and traced it back to you.
+12=My boys in the towers spotted evidence of tunnelling and we've linked it back to you.
+13=My boys in the towers spotted fencing cut open and we've linked it back to you.
+14=One of my boys found contraband stashed in your desk during a shakedown.
+15=A prison key's been reported stolen and we've linked it back to you.
+16=Unfortunately I had to bring in the cavalry to put an end to your shenanigans.
+17=The perimeter jeep patrol found evidence of digging, and we traced it back to you.
+18=The perimeter jeep patrol found evidence of an escape attempt, and we traced it back to you.
+19=You'll have to be quicker than that to dodge our spotlights!
+20=Not sure what you were trying to accomplish but it didn't work!
+
+[Profile]
+1=Stats
+2=Give
+3=Buy
+4=Outfit
+5=Weapon
+6=You are out#of range
+7=Nothing for sale
+8=Unavailable#while sleeping
+
+[Escaped]
+1=YOU ESCAPED
+2=Player Stats
+3=Player Reputation
+4=Good Behaviour
+5=Bad Behaviour
+6=Days Taken
+7=Overall Score
+8=Click to continue
+9=Playtime
+10=mins
+11=Average heat
+12=Days Taken Bonus
+13=Efficiency
+
+[Action]
+1=Searching
+2=Digging
+3=Unscrewing
+4=Cutting
+5=Chipping
+6=Reading
+7=Browsing
+8=Weeding
+9=Cleaning
+
+[Misc]
+1=$name's pockets
+2=and
+3=CRAFT
+4=You need $int more INT to craft that
+5=Nothing happens
+6=You are too fatigued
+7=Your inventory is full
+8=You can only ASCEND with that item
+9=You can only DESCEND with that item
+10=The way is blocked
+11=You need to brace the tunnel with supports!
+12=Job Quota
+13=LOADING
+14=Hits
+15=Skips
+16=Presses
+17=Reps
+18=Distance
+19=Restores $fat fatigue
+20=Restores $hp health
+21=Defense
+22=Your craft journal is complete
+23=Close
+24=Requires $int intellect
+25=The $item breaks...
+26=Flush
+27=This is a work in progress and#may not reflect final game
+28=Toilet
+29=I saw that $name!
+30=Naughty word detected!
+31=Name already in use!
+32=Name too short!
+33=Name too long!
+34=The Escapists. Developed by Mouldy Toof Studios and#Team17 Digital Ltd © 2015. Published by Team17. Team17#are trademarks or registered trademarks of Team17#Digital Limited. All other trademarks, copyrights and#logos are property of their respective owners.
+35=Can't be flushed for another $time seconds! 
+36=The toilet is blocked!
+37=because
+38=on top of that
+39=Save game
+40=Would you like to sleep until morning#and save your current progress?
+41=Okay
+42=Not yet
+43=Officer $name
+44=Okay $name, you've made your point!#The main prison gate is now unlocked as requested, just please.. don't hurt anyone else!
+45=You completed the favour for $name and earned $payout.
+46=Infirmary staff only!
+47=You can't take on any more favours yet!
+48=This can only be used on rooftops
+49=Papers please!
+50=Um.. $250?
+51=Hello $name.##I got your message, and I must say it's quite a risky thing to ask! My job is to ferry prisoners TO the island, not AWAY.##However, $250 might change my mind... Bring the cash to the dock during my night shift and I'll smuggle you to the mainland.##Big Hugs,#Officer Birdseye x
+52=Those papers aren't even signed!
+53=Seeya tomorrow!
+54=Store
+
+[Popups]
+1=1@Prison life is all about routines. By sticking to them you'll keep the guards off your back.
+2=1@You can use your desk to store items in. Green items are legal, red ones are illegal.
+3=1@If your name is pulled for a shakedown at rollcall, make sure your desk is free of contraband!
+4=2@The prison gym is where you'll build up your strength and speed. Get on the equipment and toggle the $action1 and $action2 keys to work out.
+5=1@Performing manual tasks will raise your fatigue. You can lower it by eating, showering, or resting.
+6=1@Browsing the web or reading in a library will increase your intellect.
+7=2@When knocked out you'll be sent to the infirmary. You'll lose some of your cash and all illegal items you were carrying.
+8=1@Collect outfits from the dirty laundry trolley and put them in the washing machines.
+9=1@Once spun, take them out and put them in the clean laundry trolley.
+10=1@You will lose your job if you fail to meet the job quota each day!
+11=1@At lights out you can save your progress by sleeping till morning.
+
+[Tut]
+1=The Escapists - Tutorial Mode
+2=Escaping? Good times!
+3=Well, this is it, time to put this plan to the test! All the preparation and hard work boils down to this.#Lets get to it! Use the $up, $left, $down and $right keys to move your prisoner.
+4=1@Move to your desk and LEFT CLICK to open it. Take all the items from inside
+5=1@RIGHT CLICK is used to pick up and drop desks. Move your desk to the highlighted position.
+6=1@Stand beside the desk and tap towards it to climb it. This allows you to see the vent layer above.
+7=1@LEFT CLICK on the screwdriver in your inventory, then on the vent above to begin unscrewing it.
+8=1@Climb up into the open vent by LEFT CLICKing on it. Once inside make your way to a nearby cell.
+9=2@The flashing bag icon over Durdens head means he has items to sell. RIGHT CLICK on him to open up his profile.
+10=1@Great, now you can craft a weapon! Open the CRAFT menu and add the two items
+11=1@To use a weapon you first need to equip it. So open up your profile and let's do that.
+12=2@Let's try it out! Press $combat to toggle combat mode on and off. With it on, click on the guard to target him.
+13=2@Ouch! If you stand next to the unconcious guard and LEFT CLICK on him you can loot his items. Grab his outfit!
+14=1@Let's play dress-up. Equip the guard outfit in your profile.
+15=2@Lookin' good! Now go outside to the right and head north past the guards, where your exit awaits..
+16=1@Dark down here isn't it? RIGHT CLICK to pick up that shovel and let's get digging!
+17=1@Digging on an empty space allows you to dig UPWARDS and emerge from the underground
+18=2@That wasn’t too tough was it? All you have to do now is walk on out. Freedom has never tasted so good!
+
+[Tut_Mac]
+1=The Escapists - Tutorial Mode
+2=Escaping? Good times!
+3=Well, this is it, time to put this plan to the test! All the preparation and hard work boils down to this.#Lets get to it! Use the $up, $left, $down and $right keys to move your prisoner.
+4=1@Move to your desk and CLICK to open it. Take all the items from inside
+5=3@COMMAND CLICK is used to pick up and drop desks. Move your desk to the highlighted position.
+6=1@Stand beside the desk and tap towards it to climb it. This allows you to see the vent layer above.
+7=1@CLICK on the screwdriver in your inventory, then on the vent above to begin unscrewing it.
+8=1@Climb up into the open vent by pressing CLICK on it. Once inside make your way to a nearby cell.
+9=2@The flashing bag icon over Durdens head means he has items to sell. COMMAND CLICK on him to open up his profile.
+10=1@Great, now you can craft a weapon! Open the CRAFT menu and add the two items
+11=1@To use a weapon you first need to equip it. So open up your profile and let's do that.
+12=2@Let's try it out! Press $combat to toggle combat mode on and off. With it on, click on the guard to target him.
+13=2@Ouch! If you stand next to the unconcious guard and CLICK on him you can loot his items. Grab his outfit!
+14=1@Let's play dress-up. Equip the guard outfit in your profile.
+15=2@Lookin' good! Now go outside to the right and head north past the guards, where your exit awaits..
+16=1@Dark down here isn't it? COMMAND CLICK to pick up that shovel and let's get digging!
+17=1@Digging on an empty space allows you to dig UPWARDS and emerge from the underground
+18=2@That wasn’t too tough was it? All you have to do now is walk on out. Freedom has never tasted so good!
+
+[PhoneTips]
+1=Prison Payphone
+2=''You wanna escape kid? Well you've phoned#the right person! I'll give you some tips#but it's gonna cost ya of course!''
+3=Unlocked
+4=Locked
+
+perks1=Guard towers limit your actions outside during the day, but at night it’s a different story.
+perks2=Disrupting employees whilst they go about their jobs just might prevent them from completing their quota!
+perks3=What if you could somehow make a mould of an unconcious guards key and return the key back to him before he even knew it was missing?
+
+stalagflucht1=If you have several favours where you need to return items to inmates - the easiest way to do this is at Roll Call!
+stalagflucht2=You’ll have to befriend your cell mate if you don’t want him snitching on you.
+stalagflucht3=If you try to cut through the outer fence you’ll be in for a shock. Look for a way to disable the power.
+
+shanktonstatepen1=The prison roof has various layers which can be traversed using ropes or grappling hooks.
+shanktonstatepen2=If you want to lower the risk of having contraband items taken from you, you can store them in the vents, utility areas or underground.
+shanktonstatepen3=Be careful when working on an escape route. Use fake wall blocks, fake vent covers, and such to hide your work.
+
+jungle1=Barracks situated north of the compound store an item you will need!
+jungle2=Once you're out, you're not exactly out - there's a guard checkpoint you'll need to pass!
+jungle3=If the perimeter jeep spots an inmate outside the prison walls they'll be sent straight to solitary!
+
+sanpancho1=The mines beyond the fence only trigger when passed over on ground!
+sanpancho2=The perimeter jeep can be temporarily disabled with a makeshift Stinger!
+sanpancho3=In his infinite wisdom, the architect who created San Pancho placed the generator on the roof!
+
+irongate1=Duct Tape can be used to briefly disable the security cameras!
+irongate2=The perimeter wall beyond the main compound has a reinforced concrete base. No going under or through that!
+irongate3=It's possible to craft a Bed Dummy to make the guards think you're tucked up nicely in there whilst you can go do other things!
+
+escapeteam1=Makeshift Tank Barrel = Metal Tube + Metal Tube + Duct tape
+escapeteam2=Makeshift Tank Firing Base = Corrugated Iron + Corrugated Iron + Duct Tape
+escapeteam3=Explosive Mix = Potassium + Charcoal + Fertilizer
+escapeteam4=Explosive Compound = Explosive Mix + Mixing Container
+
+[Help]
+1_title=Controls
+1=- Use the $up, $left, $right and $down keys to move.#- $combat to toggle combat mode.#- Left Mouse to interact, target, use and move items.#- Right Mouse to pick up & drop, view profiles.#- Variations of $action1 and $action2 to exercise.#- Use $action1 to recruit & dismiss buddies.
+2_title=Picking up and dropping
+2=RIGHT CLICK is used for picking up & dropping things. For items, RIGHT CLICK an item on the floor to pick it up, or RIGHT CLICK an item in your inventory to drop it. You can’t drop items on top of one another.##You can also pick up and drop desks, knocked out characters, bed sheets, pillows, removable vents and wall blocks and a list of other things.
+3_title=Using Items
+3=To use an item, LEFT CLICK on it in your inventory to select it. The mouse cursor will change purple to indicate you’re in USE mode. ##Then just LEFT CLICK again on where you want to use that particular item. You can also use the 1-6 number keys as shortcuts for selecting items.
+4_title=Attacking
+4=The $combat key is used to toggle attack mode on and off. With attack mode on, left click on someone to target them. Once in range of a target, you'll attack them automatically. To stop attacking either move away, turn off attack mode, or untarget them by clicking elsewhere.##You can increase the damage you do in combat by equipping weapons and increasing your strength stat.
+5_title=Routines
+5=Prison life is all about routines. The bar at the bottom of the screen, along with the yellow destination arrow tells you where you need to be at any particular time.##If you ignore these then you'll find the guards yelling at you and your heat level rising. Skipping rollcalls will put the prison in lockdown mode.
+6_title=Stats and training
+6=Your main stats are strength, speed and intellect. These degrade over time.##Strength is how hard you hit others, and speed is how fast. Both are trained in the gym.##Intellect is improved by reading or browsing the internet. It determines which jobs you can have, what you can craft, and so on.
+7_title=Heat and Punishment
+7=Everytime you break prison rules in sight of a guard or camera your heat rating will rise. If it gets too high, the guards will attack you.##More serious offences, like them discovering evidence of an attempted escape, will see you sent to solitary confinement for three days.
+8_title=Opinion
+8=All other inmates and guards have an opinion (OPN) of you, which can be seen on their profile. The higher the opinion, the more they like you. Opinions always gravitate towards neutral over time.##You can raise others opinion by talking to them or giving them items and money. Someone who dislikes you will probably attack you for no reason or snitch on you.
+9_title=Crafting
+9=Crafting is merging two or three items to create a new item. The best weapons and tools needed to help you escape are only available through crafting.##Around the prison you'll come across Crafting Notes which tell you how to make certain items when you use them. These will then be stored in your journal for reference.
+10_title=Favours
+10=Inmates with a flashing green exclamation icon above their heads have a favour to ask of you. LEFT CLICK on them to see the favour.##Favours might be anything from asking you to retrieve an item for them, or beating someone up.#If you accept and complete a favour for someone, their opinion of you will rise and they'll give you cash.
+11_title=Prison Jobs
+11=Prison jobs are a legal way of earning some cash. There are various ones available and you can apply on the job board in the prison office.##There are set periods of the daily routine where inmates with jobs can attend to them. Failure to meet a quota during this time will result in losing the job.
+12_title=Health
+12=You lose health each time you are attacked by a guard or another inmate. Once it reaches zero you're sent to the infirmary and stripped of any contraband on hand.##Health regenerates over time, but you can speed this up by using healing items or resting in infirmary beds. The higher your strength, the higher your max health.
+13_title=Fatigue
+13=Fatigue represents how tired you are. Everytime you do a task that requires physical energy it will rise.##Although it drops slowly over time, there are several ways to reduce fatigue faster such as showering, eating, and resting in beds.
+14_title=Weapons and Outfits
+14=You can equip a weapon and an outfit via your character profile page.##Weapons will increase the damage you do during a fight. You are assigned an prison outfit to start with, but you may come across various other ones. Some of them have defensive properties that reduce attack damage against you.
+15_title=Buying Items
+15=Inmates with a flashing yellow bag icon over their head mean they have items for sale.##RIGHT CLICK on them to see their profile, then click the buy tab to see what they're selling. The price they charge is dependant upon their opinion of you.
+16_title=Storing Items
+16=Every prison inmate has a desk in their cell to store items in. LEFT CLICK on it to open it.##Legal items are always safe while stored in desks, but illegal ones will be removed should your cell be shaken down by guards.
+17_title=Contraband Detectors
+17=Around the prisons you'll come across contraband detectors in some doorways. ##If you pass through these while carrying any illegal items, it will trigger the alarm and the guards will be onto you. There are however ways to bypass these if you're in the smuggling mood.
+18_title=Stealing and Looting
+18=You can loot a knocked out inmate or guard by using LEFT CLICK on their body. You're then free to pilfer from their inventory.##You can also steal from other inmates desks in the same manner. Just don't let them see you doing it!
+19_title=Recruiting Buddies
+19=You are able to recruit fellow prisoners who have a high opinion of you by hovering the mouse over them and pressing the $action1 key. In this state, they will follow you around until you dismiss them in the same manner.##They will attack whoever you target, or whoever attacks you. Since their reputation with guards takes a hit by fighting for you, you will lose a little opinion each attack call.
+20_title=Escaping
+20=Ultimately the objective is to escape the prison. There are various ways of doing this, and what might work on one prison can be impossible on another.##Be observant to any potential flaws in the prison security. Be resourceful in collecting and storing items that might be of use. Be patient and pick the right time to make a move.
+
+[Help_Mac]
+1_title=Controls
+1=- Use the $up, $left, $right and $down keys to move.#- $combat to toggle combat mode.#- CLICK to interact, target, use and move items.#- COMMAND CLICK to pick up & drop, view profiles.#- Variations of $action1 and $action2 to exercise.#- Use $action1 to recruit & dismiss buddies.
+2_title=Picking up and dropping
+2=COMMAND CLICK is used for picking up & dropping things. For items, COMMAND CLICK an item on the floor to pick it up, or COMMAND CLICK an item in your inventory to drop it. You can’t drop items on top of one another.##You can also pick up and drop desks, knocked out characters, bed sheets, pillows, removable vents and wall blocks and a list of other things.
+3_title=Using Items
+3=To use an item, CLICK on it in your inventory to select it. The mouse cursor will change purple to indicate you’re in USE mode. ##Then just CLICK again on where you want to use that particular item. You can also use the 1-6 number keys as shortcuts for selecting items.
+4_title=Attacking
+4=The $combat key is used to toggle attack mode on and off. With attack mode on, CLICK on someone to target them. Once in range of a target, you'll attack them automatically. To stop attacking either move away, turn off attack mode, or untarget them by clicking elsewhere.##You can increase the damage you do in combat by equipping weapons and increasing your strength stat.
+5_title=Routines
+5=Prison life is all about routines. The bar at the bottom of the screen, along with the yellow destination arrow tells you where you need to be at any particular time.##If you ignore these then you'll find the guards yelling at you and your heat level rising. Skipping rollcalls will put the prison in lockdown mode.
+6_title=Stats and training
+6=Your main stats are strength, speed and intellect. These degrade over time.##Strength is how hard you hit others, and speed is how fast. Both are trained in the gym.##Intellect is improved by reading or browsing the internet. It determines which jobs you can have, what you can craft, and so on.
+7_title=Heat and Punishment
+7=Everytime you break prison rules in sight of a guard or camera your heat rating will rise. If it gets too high, the guards will attack you.##More serious offences, like them discovering evidence of an attempted escape, will see you sent to solitary confinement for three days.
+8_title=Opinion
+8=All other inmates and guards have an opinion (OPN) of you, which can be seen on their profile. The higher the opinion, the more they like you. Opinions always gravitate towards neutral over time.##You can raise others opinion by talking to them or giving them items and money. Someone who dislikes you will probably attack you for no reason or snitch on you.
+9_title=Crafting
+9=Crafting is merging two or three items to create a new item. The best weapons and tools needed to help you escape are only available through crafting.##Around the prison you'll come across Crafting Notes which tell you how to make certain items when you use them. These will then be stored in your journal for reference.
+10_title=Favours
+10=Inmates with a flashing green exclamation icon above their heads have a favour to ask of you. CLICK on them to see the favour.##Favours might be anything from asking you to retrieve an item for them, or beating someone up.#If you accept and complete a favour for someone, their opinion of you will rise and they'll give you cash.
+11_title=Prison Jobs
+11=Prison jobs are a legal way of earning some cash. There are various ones available and you can apply on the job board in the prison office.##There are set periods of the daily routine where inmates with jobs can attend to them. Failure to meet a quota during this time will result in losing the job.
+12_title=Health
+12=You lose health each time you are attacked by a guard or another inmate. Once it reaches zero you're sent to the infirmary and stripped of any contraband on hand.##Health regenerates over time, but you can speed this up by using healing items or resting in infirmary beds. The higher your strength, the higher your max health.
+13_title=Fatigue
+13=Fatigue represents how tired you are. Everytime you do a task that requires physical energy it will rise.##Although it drops slowly over time, there are several ways to reduce fatigue faster such as showering, eating, and resting in beds.
+14_title=Weapons and Outfits
+14=You can equip a weapon and an outfit via your character profile page.##Weapons will increase the damage you do during a fight. You are assigned an prison outfit to start with, but you may come across various other ones. Some of them have defensive properties that reduce attack damage against you.
+15_title=Buying Items
+15=Inmates with a flashing yellow bag icon over their head mean they have items for sale.##COMMAND CLICK on them to see their profile, then click the buy tab to see what they're selling. The price they charge is dependant upon their opinion of you.
+16_title=Storing Items
+16=Every prison inmate has a desk in their cell to store items in. CLICK on it to open it.##Legal items are always safe while stored in desks, but illegal ones will be removed should your cell be shaken down by guards.
+17_title=Contraband Detectors
+17=Around the prisons you'll come across contraband detectors in some doorways. ##If you pass through these while carrying any illegal items, it will trigger the alarm and the guards will be onto you. There are however ways to bypass these if you're in the smuggling mood.
+18_title=Stealing and Looting
+18=You can loot a knocked out inmate or guard by using CLICK on their body. You're then free to pilfer from their inventory.##You can also steal from other inmates desks in the same manner. Just don't let them see you doing it!
+19_title=Recruiting Buddies
+19=You are able to recruit fellow prisoners who have a high opinion of you by hovering the mouse over them and pressing the $action1 key. In this state, they will follow you around until you dismiss them in the same manner.##They will attack whoever you target, or whoever attacks you. Since their reputation with guards takes a hit by fighting for you, you will lose a little opinion each attack call.
+20_title=Escaping
+20=Ultimately the objective is to escape the prison. There are various ways of doing this, and what might work on one prison can be impossible on another.##Be observant to any potential flaws in the prison security. Be resourceful in collecting and storing items that might be of use. Be patient and pick the right time to make a move.
+
+[escTeam]
+0=Repair Notes
+
+1=First you will need a makeshift tank turret.#You can craft one with the following elements: Makeshift Tank Firing Base, Makeshift Tank Barrel, Duct Tape
+
+2=Next you will need a makeshift explosive round.#You can craft one with the following elements: Metal Cone, Makeshift Explosive Compound
+
+3=Finally you will need a Makeshift Fuse.#You can craft one with the following elements: Taper, Lighter
+
+Welcome=If you're reading this message then our#man on the inside didn't die in vain!##Intelligence suggests he marked several#desks around the compound that contain items useful to blast your way to freedom.##Good luck!##PS: This letter will self destruct in ten seconds...
+
+Sign=A fantastic and fiercely loyal tank...#The remnants of this doting war-machine can be viewed at it's final resting place situated east of the compound.#May your malevolent, blood-thirsty soul rest in peace!
+
+[DTAF]
+Boss=The Villain
+Hench=Henchman $name
+
+Welcome=Pay attention Agent $name...##You'll need to put together some high-tech#equipment to launch yourself out#of this one!##We've recieved the attached photo and the keywords 'sharks' and 'hammers' from a former agent. Hopefully this intel will be of some help.##Good luck, we're counting on you!
+
+Sign1_Top=LAUNCH INSTRUCTIONS
+Sign1=DO NOT USE FAKE FINGERPRINTS ON THE FINGERPRINT SCANNER#DO NOT USE HENCHMEN VOICE RECORDINGS ON THE VOICE RECOGNITION SYSTEM#DO NOT USE STOLEN LAUNCH KEYS ON THE LAUNCH PANEL
+
+Sign2=WARNING!##THIS IS A RESTRICTED AREA.#TRESPASSERS WILL BE SLAPPED!
+Sign3=WARNING##HENCHMEN ONLY!
+
+Panel_Right=NOTICE##Only the fingerprint of the villain#in charge can activate this!
+Panel_Bottom=NOTICE##Only the soft, velvety tones#of a loyal henchman will enable this!
+Panel_Left=NOTICE##Insert the launch keycard into#the slot to activate!
+
+Pan1=Keycard Panel
+Pan2=Voice Analyzer
+Pan3=Fingerprint Scanner
+
+[SS]
+Boss=Santa
+Header=Festive Hint!
+
+Welcome=Fellow Elves,##I'm SICK of this place! Awful pay, no holidays, and a horrible boss!##Since Santa's banned all holiday celebrations, I'm going to get revenge by decorating the tree in his room with some festive cheer! Then... I'm outta here!##Signed, $name
+
+Job_Janitor=Manure Control
+Sign_Janitor=Grab a broom or mop from the container and clean up the reindeer mess around the island.
+Job_Janitor_Descrip=There's a lot of reindeer on this island, and that means a lot of reindeer poop someone has to clean up. Be that someone!
+
+Job_Deliveries=Letter Organization
+Sign_Deliveries=Take some letters from Santas delivery bag then follow the path north.#Put the nice letters in the basket and the naughty ones in the shredder.
+Job_Deliveries_Descrip=Never have you had so much power at your fingertips in a job role.#Like a festive secretary it's down to you to sort the nice and nasty letters into their designated places using the new fangled efficiency based system we have set up!
+
+Job_Mailman=Taskmaster
+Sign_Mailman=Take the task letters from the cabinet and deliver them to elves so they know what they're doing.
+Job_Mailman_Descrip=It's all go at Santas sweatshop, but without someone to hand out the tasks it'd all grind to a halt!#Deliver the task lists to the elves so they know exactly what they're doing. They'll hate you for it sure, but hey - don't shoot the messenger!
+
+Job_Tailor=Toymaker
+Sign_Tailor=Being the master craftsman that you are, take the Chisel item and Wood Block from the wood container on the left.#Craft these two items together to make toys, which are then placed into the toy container on the right.
+Job_Tailor_Descrip=The toymaker is tasked with making the toys that Santa will deliver. Except these Christmas gifts are hardly the amazing presents that kids want.#Still, they're a step up from a lump of coal on Christmas morning!
+
+Tree_1=Let's decorate this thing!#First you'll need some Tinsel!##Tinsel = Glitter + Toilet Roll + Glue
+Tree_2=Next you'll need some Fairy Lights!##Fairy Lights = Bulbs + Wire + Battery
+
+Tree_3_1=Now some Presents!##Presents = Wooden Scooter + Wrapping Paper + Sticky Tape
+Tree_3_2=Now some Presents!##Presents = Wooden Joystick + Wrapping Paper + Sticky Tape
+Tree_3_3=Now some Presents!##Presents = Wooden Doll + Wrapping Paper + Sticky Tape
+Tree_3_4=Now some Presents!##Presents = Wooden Ball + Wrapping Paper + Sticky Tape
+
+Tree_4=The tree looks magical- Santa will hate it!##A strange slot at the base of the tree catches your eye. It looks like some kind of lever goes in there.
+
+Hover_Woodchest=Wood Box
+Hover_Toychest=Toy Box
+Hover_Letters=Letters Sack
+Hover_Taskmaster=Task letters
+Hover_Shredder=Letter Shredder
+Hover_Basket=Letters Basket
+Hover_Reindeer=Reindeer
+Hover_Tree=Christmas Tree
+Hover_Sleigh=Santas Sleigh
+Hover_Reindeers=Dasher_Dancer_Prancer_Vixen_Comet_Cupid_Donner_Blitzen_Rudolph
+
+[DLC]
+New=New DLC available!
+Store=Visit the Store
+Free=Free!
+1=Try out The Escapists first ever prison! Originally a bonus for Early Access members, now available to all by popular demand.
+2=Try to escape from one of the most famous prisons in the world, Alcatraz. Many have tried, most have failed. Now it's your turn.
+3=Imprisoned for a crime you didn't commit, you and your trusty team need to blast your way out of a secure military camp.
+4=An evil genius has rounded up you and a bunch of other spies to prevent his plans for world domination being foiled.
+5=Sick of bad working conditions and zero pay, you decide to hit Santa where it hurts most and escape his vile sweatshop!
+
+[CCL]
+Intro=After escaping Santa's Sweatshop, $name lost control of the sleigh mid-flight and was forced to make an emergency crash landing. Ironically, this landing was within the grounds of Jingle Cells Prison!##The other inmates don’t believe $names story, they think he’s crazy. Now he’s doing hard time with the rest of them.##Only one thing to do- repair the sleigh and fly out of there!
+
+Sleigh_1=Santa's sleigh took quite a beating during the crash, it'll need some repairs before you can fly it out of here. Firstly, a new thruster!##Thruster = Fuel + Metal Tubing + Lighter
+
+Sleigh_2=The sleighs GPS Navigation system is down. You’ll have to make yourself a compass to find your way home.##Makeshift Compass = Bowl Of Water + Magnetized Needle + Cork
+
+Sleigh_3=The sleighs high-beam headlamps were smashed during the crash. Without adequate lighting you’ll be flying blind!##Navigation Lighting = Work Hat + High Beam Flashlight + Duct Tape
+
+Sleigh_4=The sleigh looks ready to leave, but the stubborn reindeers are refusing to travel on an empty stomach. Looks like you'll have to cook them their favorite snack...
+
+                                         
